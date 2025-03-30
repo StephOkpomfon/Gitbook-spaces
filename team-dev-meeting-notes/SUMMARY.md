@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Team members](README.md)
+* [Important links](important-links.md)
