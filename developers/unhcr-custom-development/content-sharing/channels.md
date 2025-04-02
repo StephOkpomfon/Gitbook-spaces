@@ -10,4 +10,4 @@ drush en entity_share_server
 
 Additional filtering and sorting rules can be set on these channels as required by visiting this URL: [https://mvp.unhcr.info/admin/config/services/entity\_share/channel](https://mvp.unhcr.info/admin/config/services/entity_share/channel)
 
-![Add Channel](<../../../.gitbook/assets/Add channel _ un (1) (1).jpg>)
+![Add Channel](<../../../drupal-platform-docs/.gitbook/assets/Add channel _ un (1) (1).jpg>)

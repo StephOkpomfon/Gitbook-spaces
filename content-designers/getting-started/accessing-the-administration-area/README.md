@@ -9,4 +9,4 @@
 5. **OR,** use the Windows Azure account to log in by clicking on the "Log in with Windows Azure AD" button
 6. Once you have successfully logged in, you will be redirected to the administration area of your Drupal website.
 
-<figure><img src="../../../.gitbook/assets/chrome_Z444agpK8V.png" alt=""><figcaption><p>The Project site login page</p></figcaption></figure>
+<figure><img src="../../../drupal-platform-docs/.gitbook/assets/chrome_Z444agpK8V.png" alt=""><figcaption><p>The Project site login page</p></figcaption></figure>

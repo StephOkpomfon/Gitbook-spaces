@@ -19,9 +19,9 @@ description: >-
       \
       Example annotated screenshot:
 
-      <figure><img src="../.gitbook/assets/Sample Screenshot" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../drupal-platform-docs/.gitbook/assets/Sample Screenshot" alt=""><figcaption></figcaption></figure>
 
-      <figure><img src="../.gitbook/assets/annotations (1) (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../drupal-platform-docs/.gitbook/assets/annotations (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Make sure screenshots are displayed in a good resolution, not pixilated.
 * Always add a caption to screenshots or images in the documentation page. Captions must be following APA title case style. Use [capitalizemytitle.com](https://capitalizemytitle.com) for help.
 * Take screenshots from real content on the website and not from other sites.

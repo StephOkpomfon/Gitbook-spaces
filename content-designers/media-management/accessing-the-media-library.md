@@ -4,4 +4,4 @@
   1. Select "**Content"** from the "**Manage"** administrative menu.
   2.  Click on "**Media"**_._\\
 
-      <figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>Media Library Page</p></figcaption></figure>
+      <figure><img src="../../drupal-platform-docs/.gitbook/assets/image (105).png" alt=""><figcaption><p>Media Library Page</p></figcaption></figure>

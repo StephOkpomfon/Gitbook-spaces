@@ -13,12 +13,12 @@ So let's see below how we can achieve this:
 2. Edit a certain basic page
 3. From the right hand side look for “Meta tags” section.
 
-![Meta tags section when adding/editing content](../../.gitbook/assets/meta.png)
+![Meta tags section when adding/editing content](../../drupal-platform-docs/.gitbook/assets/meta.png)
 
 4\. Open _Meta tags_ section and scroll down into the "Advanced" tab.\
 5\. Look for "Robots" title, and check on "noindex - Prevents search engines from indexing this page."
 
-![Advanced meta tags when adding/editing content](../../.gitbook/assets/robot.png)
+![Advanced meta tags when adding/editing content](../../drupal-platform-docs/.gitbook/assets/robot.png)
 
 ####
 
@@ -32,10 +32,10 @@ To prevent/fix this warning from happening, you'll need to exclude this page fro
 2. Edit a the content you want to exclude from XML sitemap
 3. Look for “**Simple XML Sitemap**” and click the item that can be located in the sidebar
 
-![XML sitemap section when adding/editing content](<../../.gitbook/assets/Create-Basic-page-test-qa-varbase-8-8-x-development-13-07-2020 (1).png>)
+![XML sitemap section when adding/editing content](<../../drupal-platform-docs/.gitbook/assets/Create-Basic-page-test-qa-varbase-8-8-x-development-13-07-2020 (1).png>)
 
 4\. You will be seeing two options, “Do not index this basic page” or by default, it is selected “Index this”
 
-![](../../.gitbook/assets/sitemap.png)
+![](../../drupal-platform-docs/.gitbook/assets/sitemap.png)
 
 5\. To exclude this page from being indexed please select “**Do not index this Basic page entity in variant Default**”

@@ -7,7 +7,7 @@
 * Media.
 * Link.
 
-![Content Grid with Background Block](<../../../../.gitbook/assets/chrome_CVwrpFCVYD (1) (1).png>)
+![Content Grid with Background Block](<../../../../drupal-platform-docs/.gitbook/assets/chrome_CVwrpFCVYD (1) (1).png>)
 
 ### How to Add a Content Grid with Background Block
 

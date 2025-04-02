@@ -7,7 +7,7 @@ Import config is a plugin that replaced entity share events, basically, its plug
 * Prepare importable entity data
 * Process entity, Post entity save).
 
-![Share Process Stages](<../../../.gitbook/assets/entity share process.jpg>)
+![Share Process Stages](<../../../drupal-platform-docs/.gitbook/assets/entity share process.jpg>)
 
 Since it is a plugin you can define a custom plugin to alter the data or you can alter the entity.
 

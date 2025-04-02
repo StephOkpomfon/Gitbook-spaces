@@ -15,7 +15,7 @@ Follow these steps to create a new **Event** in the UNHCR website:
 5. Fill in all the mandatory fields under the "**Content categorisation**" tab.
 6.  Click "**Save"**_**.**_\\
 
-    <figure><img src="../../../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Create Event Page</p></figcaption></figure>
+    <figure><img src="../../../../drupal-platform-docs/.gitbook/assets/image (93).png" alt=""><figcaption><p>Create Event Page</p></figcaption></figure>
 
 ## Part 2: Create Event fields :
 

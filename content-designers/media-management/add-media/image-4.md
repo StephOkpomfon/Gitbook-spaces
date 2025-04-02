@@ -10,7 +10,7 @@ description: Use local images for reusable media.
 2. Select **Add media**_._
 3.  Select **Gallery**.
 
-    <figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption><p>Add media Page</p></figcaption></figure>
+    <figure><img src="../../../drupal-platform-docs/.gitbook/assets/image (106).png" alt=""><figcaption><p>Add media Page</p></figcaption></figure>
 
 ## Supported Files to be resused:
 

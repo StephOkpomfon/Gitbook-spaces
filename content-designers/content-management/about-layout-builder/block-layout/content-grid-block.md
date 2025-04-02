@@ -6,7 +6,7 @@
 * Media.
 * Link.
 
-![Content Grid Block](../../../../.gitbook/assets/chrome_1jz8QMS3uf.png)
+![Content Grid Block](../../../../drupal-platform-docs/.gitbook/assets/chrome_1jz8QMS3uf.png)
 
 ### **​**How to Add a **Content Grid Block**
 

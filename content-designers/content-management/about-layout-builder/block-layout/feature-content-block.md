@@ -10,7 +10,7 @@
 * **Statistic description.**
 * **Link.**
 
-![Feature Content Block](../../../../.gitbook/assets/chrome_k6H95wWXl9.png)
+![Feature Content Block](../../../../drupal-platform-docs/.gitbook/assets/chrome_k6H95wWXl9.png)
 
 ### How to Add a Feature Content Block <a href="#how-to-add-feature-content-block" id="how-to-add-feature-content-block"></a>
 

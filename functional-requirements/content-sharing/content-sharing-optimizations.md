@@ -6,7 +6,7 @@
 
 This feature enables content authors to lock a page, preventing any edits when it's synchronized through content sharing to other sites.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-10-12 at 4.52.48 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../drupal-platform-docs/.gitbook/assets/Screenshot 2023-10-12 at 4.52.48 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### User Experience Changes
 

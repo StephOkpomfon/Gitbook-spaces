@@ -11,7 +11,7 @@ To manage the Webforms follow these steps:
 
 <mark style="background-color:red;">ADD SCREENSGIT FROM ADMIN</mark>
 
-![](<../../../.gitbook/assets/Webforms-test-varbase-property-1 (1) (1).png>)
+![](<../../../drupal-platform-docs/.gitbook/assets/Webforms-test-varbase-property-1 (1) (1).png>)
 
 ### Webforms on the website
 

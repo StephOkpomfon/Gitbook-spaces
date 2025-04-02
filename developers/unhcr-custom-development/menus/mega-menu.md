@@ -4,7 +4,7 @@ UNHCR mega menu consists of fourth levels, the first level looks like a standard
 
 Below you can see a screenshot of how the mega menu was built on UNHCR.
 
-![Mega Menu on Site](../../../.gitbook/assets/megamenu.png)
+![Mega Menu on Site](../../../drupal-platform-docs/.gitbook/assets/megamenu.png)
 
 ### Configuring Menu Links
 
@@ -13,7 +13,7 @@ We can find the main menu settings in two ways:
 1. Select **Structure**/_**Mega Menu**_\*\* \*\* from the **Manage** administrative menu\*\*.\*\*
 2. Look for the **Main navigation** element and from this element's menu, we go to **Edit links**.
 
-![Edit Menu - Option 1](../../../.gitbook/assets/menu-links.png)
+![Edit Menu - Option 1](../../../drupal-platform-docs/.gitbook/assets/menu-links.png)
 
 OR! we can go to menu settings directly by:
 
@@ -21,13 +21,13 @@ OR! we can go to menu settings directly by:
 2. Locate the **Main navigation.**
 3. Click on the **Edit menu.**
 
-![Edit Menu - Option 2](../../../.gitbook/assets/menu-links-2.png)
+![Edit Menu - Option 2](../../../drupal-platform-docs/.gitbook/assets/menu-links-2.png)
 
 #### Editing Main Menu Links
 
 After going to the **Edit menu/ \_Main navigation** \_ page, the working structure of the main menu appears, which allows the admin to freely add new menu links, edit existing ones and change menu link position using drag and drop. To add more levels to the menu, we need to move the second item to the right to create an "indentation".
 
-![Add Menu Link](../../../.gitbook/assets/Edit-menu.png)
+![Add Menu Link](../../../drupal-platform-docs/.gitbook/assets/Edit-menu.png)
 
 #### Adding new menu link
 
@@ -55,7 +55,7 @@ There are two options to reach the manage page:
 2. Click on the **Edit Pen**.
 3. Choose **Drupal 8 Mega Menu Configure** from the list.
 
-![Edit Mega Menu](../../../.gitbook/assets/manage-menu-2.png)
+![Edit Mega Menu](../../../drupal-platform-docs/.gitbook/assets/manage-menu-2.png)
 
 #### Second option:
 
@@ -63,11 +63,11 @@ There are two options to reach the manage page:
 2. Look for the **Main navigation** element.
 3. Click **Config**.
 
-![We Mega Menu](../../../.gitbook/assets/manage-menu.png)
+![We Mega Menu](../../../drupal-platform-docs/.gitbook/assets/manage-menu.png)
 
 ### WeMageMenu Toolbar
 
-![Manage Mega Menu - Admin](../../../.gitbook/assets/manage-megamenu.png)
+![Manage Mega Menu - Admin](../../../drupal-platform-docs/.gitbook/assets/manage-megamenu.png)
 
 Mega Menu UI consists of 2 parts:
 
@@ -87,7 +87,7 @@ Be careful when using **Reset To Default** as this action can't be undone.
 
 Click a **Menu item** to display the **Menu Item Configuration** tab.
 
-![Mega Menu Configuration](../../../.gitbook/assets/menu-item-config.png)
+![Mega Menu Configuration](../../../drupal-platform-docs/.gitbook/assets/menu-item-config.png)
 
 **Toolbox Area**
 
@@ -100,7 +100,7 @@ Click a **Menu item** to display the **Menu Item Configuration** tab.
 
 Click **Column of Submenu** to display **Column Configuration** tab, these configs allowed for the first level only.
 
-![Mega Menu - Manage Comumns](../../../.gitbook/assets/column-config.png)
+![Mega Menu - Manage Comumns](../../../drupal-platform-docs/.gitbook/assets/column-config.png)
 
 **Toolbox Area**
 

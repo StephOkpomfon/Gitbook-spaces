@@ -17,7 +17,7 @@ Varbase bundles several security-related enhancements for compliant and secure w
 To configure the CAPTCHA methods in your site, navigate to:\
 **Administration** \ **Configuration** \ **People** \ _**CAPTCHA module settings**_
 
-![CAPTCHA Settings](<../../.gitbook/assets/CAPTCHA-settings-varbase_security (1).png>)
+![CAPTCHA Settings](<../../drupal-platform-docs/.gitbook/assets/CAPTCHA-settings-varbase_security (1).png>)
 
 A CAPTCHA can be added to virtually each form in your website. The configuration page allows you to configure settings such as:
 
@@ -62,7 +62,7 @@ To configure the Honeypot in your site, navigate to:\
 
 The configuration page allows you to configure settings such as:
 
-![Honeypot Configuration](<../../.gitbook/assets/Honeypot-configuration--varbase_security (1).png>)
+![Honeypot Configuration](<../../drupal-platform-docs/.gitbook/assets/Honeypot-configuration--varbase_security (1).png>)
 
 * Protect all forms with Honeypot
 * Log blocked form submissions
@@ -79,7 +79,7 @@ You can also enable Honeypot spam deterring mechanism on Webforms individually f
 To configure the Password Policies in your site, navigate to:\
 **Administration** \ **Configuration** \ **Security** \ _**Password Policy**_
 
-![Password Policies](<../../.gitbook/assets/Password-Policies--varbase_security (1).png>)
+![Password Policies](<../../drupal-platform-docs/.gitbook/assets/Password-Policies--varbase_security (1).png>)
 
 Varbase ships with a default password policy to provide a way to enforce restrictions on user passwords by defining password policies.
 
@@ -89,14 +89,14 @@ A password policy can be defined with a set of constraints which must be met bef
 
 > **Example:** an uppercase constraint (with a parameter of 2) and a digit constraint (with a parameter of 4) means that a user password must have at least 2 uppercase letters and at least 4 digits for it to be accepted.
 
-![Configure Constraints - Policy Constraints](<../../.gitbook/assets/Configure-Constraints---Policy-Constraints--varbase_security (1).png>)
+![Configure Constraints - Policy Constraints](<../../drupal-platform-docs/.gitbook/assets/Configure-Constraints---Policy-Constraints--varbase_security (1).png>)
 
 ## Security Kit for XSS, CSRF, SSL/TLS, Expect-CT, and More
 
 To configure the Security Kit module in your site, navigate to:\
 **Administration** \ **Configuration** \ **System** \ _**Security Kit settings**_
 
-![Security Kit](../../.gitbook/assets/Security-Kit--varbase_security.png)
+![Security Kit](../../drupal-platform-docs/.gitbook/assets/Security-Kit--varbase_security.png)
 
 The configuration page allows you to configure settings to tighten your website's security regarding:
 

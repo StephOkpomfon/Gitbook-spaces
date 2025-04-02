@@ -2,7 +2,7 @@
 
 The link block allows the admin to add external/internal links and show them in separate block on the website.
 
-![Links Block](<../../../../.gitbook/assets/chrome_VcISrey7R8 (2) (1).png>)
+![Links Block](<../../../../drupal-platform-docs/.gitbook/assets/chrome_VcISrey7R8 (2) (1).png>)
 
 ### How to Add a Link Block <a href="#how-to-add-link-block" id="how-to-add-link-block"></a>
 

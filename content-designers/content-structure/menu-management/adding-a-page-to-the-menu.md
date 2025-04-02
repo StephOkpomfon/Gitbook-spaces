@@ -6,19 +6,19 @@ To add a new page to a menu through the page node edit:
 
 1- Click on **Edit** for the page that you want to add to the menu. Or as you are creating a new page.
 
-![Edit Landing Page](<../../../.gitbook/assets/Edit Landing Page.png>)
+![Edit Landing Page](<../../../drupal-platform-docs/.gitbook/assets/Edit Landing Page.png>)
 
 2- Click on the **Menu Settings** tab in the content type settings area.
 
-![Menu Settings](<../../../.gitbook/assets/Landing Page - Menu Settings.png>)
+![Menu Settings](<../../../drupal-platform-docs/.gitbook/assets/Landing Page - Menu Settings.png>)
 
 3- Check **Provide a menu link**.
 
-![Provide a Menu Link](<../../../.gitbook/assets/Provide a Menu Link Checkbox .png>)
+![Provide a Menu Link](<../../../drupal-platform-docs/.gitbook/assets/Provide a Menu Link Checkbox .png>)
 
 4- Fill **Menu link title** and select the **Parent item.**
 
-![Menu Link Title and Parent Item](<../../../.gitbook/assets/Menu Link Title and Parent Item.png>)
+![Menu Link Title and Parent Item](<../../../drupal-platform-docs/.gitbook/assets/Menu Link Title and Parent Item.png>)
 
 5- Click **Save** at the bottom of the page.
 

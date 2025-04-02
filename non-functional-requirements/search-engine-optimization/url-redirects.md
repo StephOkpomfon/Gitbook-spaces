@@ -16,7 +16,7 @@ By default on Varbase, there are default roles that can manage URL Redirects and
 
 As a Super Admin, Site Admin, or SEO Admin, please navigate to **Administration \ Configurations \ Search and metadata \ \_Redirect**\_.
 
-![Managing URL Redirects](../../.gitbook/assets/2021-11-20_18-29-35.jpg)
+![Managing URL Redirects](../../drupal-platform-docs/.gitbook/assets/2021-11-20_18-29-35.jpg)
 
 This page will view all the site's URL redirects that are already applied.
 
@@ -24,7 +24,7 @@ This page will view all the site's URL redirects that are already applied.
 
 This section will explain how to add users Varbase, please navigate to **Administration \ Configurations \ Search and metadata \ Redirect \ Add URL redirect.**
 
-![Adding URL redirects](<../../.gitbook/assets/image (43) (1) (1).png>)
+![Adding URL redirects](<../../drupal-platform-docs/.gitbook/assets/image (43) (1) (1).png>)
 
 Follow these steps to add a URL redirect:
 

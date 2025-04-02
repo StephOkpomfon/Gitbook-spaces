@@ -6,7 +6,7 @@ description: An overview of the UNHCR Base theme and how to use it.
 
 The UNHCR theme follows UNHCR's general styling guidelines and components and puts it on top of Bootstrap's framework. This theme is a sub-theme of the Vartheme theme and is intended to be used as the base theme for all UNHCR projects.
 
-<figure><img src="../../.gitbook/assets/spaces_bydr6BR5VPqrbltmdnWL_uploads_git-blob-506eb7e57977d128d8f2bcf0f17eb026e5e302c6_Technical Documentation.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../drupal-platform-docs/.gitbook/assets/spaces_bydr6BR5VPqrbltmdnWL_uploads_git-blob-506eb7e57977d128d8f2bcf0f17eb026e5e302c6_Technical Documentation.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Using UNHCR base theme
 
@@ -23,7 +23,7 @@ The UNHCR theme is hosted on bitbucket under unhcr\_base\_theme: [https://bitbuc
 
     \\
 
-    <figure><img src="../../.gitbook/assets/composer (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../drupal-platform-docs/.gitbook/assets/composer (1).png" alt=""><figcaption></figcaption></figure>
 2.  Include the project into your composer file by requiring it:\\
 
     ```
@@ -57,9 +57,9 @@ Each UNHCR project might require its own customizations to specific components f
 
 ## Style guideline
 
-<img src="../../.gitbook/assets/Stylesheet 01.jpg" alt="" data-size="original">
+<img src="../../drupal-platform-docs/.gitbook/assets/Stylesheet 01.jpg" alt="" data-size="original">
 
-![](<../../.gitbook/assets/Stylesheet 02.jpg>) ![](<../../.gitbook/assets/Tablet and Mobile typography.jpg>)
+![](<../../drupal-platform-docs/.gitbook/assets/Stylesheet 02.jpg>) ![](<../../drupal-platform-docs/.gitbook/assets/Tablet and Mobile typography.jpg>)
 
 ## Theme elements
 
@@ -69,16 +69,16 @@ The base theme contains some ready-to-use elements that could be reused by multi
 
 A basic header theming.
 
-<figure><img src="../../.gitbook/assets/The Global Compact on Refugees _ The Global Compact on Refugees _ UNHCR.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../drupal-platform-docs/.gitbook/assets/The Global Compact on Refugees _ The Global Compact on Refugees _ UNHCR.png" alt=""><figcaption></figcaption></figure>
 
 ### Mega Menu Header
 
 The base theme provides styling compatible with the mega menu module:
 
-<figure><img src="../../.gitbook/assets/UNHCR, the UN Refugee Agency _ UNHCR.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../drupal-platform-docs/.gitbook/assets/UNHCR, the UN Refugee Agency _ UNHCR.png" alt=""><figcaption></figcaption></figure>
 
 ### Footer
 
 Basic footer styling per UNHCR's style guide.\\
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../drupal-platform-docs/.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

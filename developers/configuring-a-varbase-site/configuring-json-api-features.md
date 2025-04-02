@@ -38,7 +38,7 @@ Having a permission `"Administer Varbase API settings"` to access Varbase API se
 
 Navigate to `"/admin/config/system/varbase/api"` to change the default Varbase API settings
 
-![Varbase API Settings](<../../.gitbook/assets/Varbase-API-settings--small (1).png>)
+![Varbase API Settings](<../../drupal-platform-docs/.gitbook/assets/Varbase-API-settings--small (1).png>)
 
 Check the expose a **"View JSON"** or **"View API Docs"** link in entity operations check boxes to list them in entity operation actions in the content page.
 
@@ -48,7 +48,7 @@ Check the expose a **"View JSON"** or **"View API Docs"** link in entity operati
 * Having a permission `"Access View API Docs entity operation"` to let site admins `View API Docs` link in entity operations.
 * Showing or hiding the `"View JSON"` and `"View API Docs"` links is based on enabled or disabled \_\_ **JSON:API resource types**. Which maps only to active endpoints for entity types and bundles.
 
-![View API Docs and View JSON Entity Operations](../../.gitbook/assets/varbase_api--view-api-docs--entity-opration.png)
+![View API Docs and View JSON Entity Operations](../../drupal-platform-docs/.gitbook/assets/varbase_api--view-api-docs--entity-opration.png)
 
 ### Auto Enabled JSON:API Endpoints for Entity Types
 
@@ -56,7 +56,7 @@ Select the desired Auto Enabled JSON:API Endpoints for Entity Types. Checked ent
 
 Other not checked entity types will not have a new JSON:API endpoints by default.
 
-![Auto Enabled JSON:API Endpoints For Entity Types](<../../.gitbook/assets/Varbase-API-settings--auto_enabled_entity_types (1).png>)
+![Auto Enabled JSON:API Endpoints For Entity Types](<../../drupal-platform-docs/.gitbook/assets/Varbase-API-settings--auto_enabled_entity_types (1).png>)
 
 ### Generate keys
 
@@ -66,7 +66,7 @@ The key generation form provided by **Simple OAuth** doesn't generate unique key
 
 Navigate to `"/admin/config/system/varbase/api/keys"` to generate keys configurations.
 
-![Varbase API Settings - Generate Keys](<../../.gitbook/assets/Varbase-API-settings--Generate-keys (1).png>)
+![Varbase API Settings - Generate Keys](<../../drupal-platform-docs/.gitbook/assets/Varbase-API-settings--Generate-keys (1).png>)
 
 ## **Managing JSON:API Resource Overrides**
 
@@ -74,7 +74,7 @@ Use the overwrite operation to overwrite a resource type's configuration. You ca
 
 Navigate to `"/admin/config/services/jsonapi/resource_types"` for overwriting a resource type's configuration. Revert back to the default configuration using the revert operation.
 
-![JSON:API Resource overrides](<../../.gitbook/assets/JSON-API-Resource-overrides---Varbase---JSON-API (1).png>)
+![JSON:API Resource overrides](<../../drupal-platform-docs/.gitbook/assets/JSON-API-Resource-overrides---Varbase---JSON-API (1).png>)
 
 ## **Browsing OpenAPI Documentation For JSON API**
 
@@ -94,7 +94,7 @@ An **OpenAPI** definition can then be used by documentation generation tools to 
 
 Navigate to `"/admin/config/services/openapi/swagger/jsonapi"` in the site to browse the **OpenAPI Documentation**.
 
-![OpenAPI Documentation - Varbase - JSON API](../../.gitbook/assets/OpenAPI--Documentation---Varbase---JSON-API--small.png)
+![OpenAPI Documentation - Varbase - JSON API](../../drupal-platform-docs/.gitbook/assets/OpenAPI--Documentation---Varbase---JSON-API--small.png)
 
 ## Example API Endpoint After Installation
 

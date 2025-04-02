@@ -17,15 +17,15 @@ We could also add styling to each section by assigning the section to different 
 
 2- Click on the **Layout** tab at the top of the page.
 
-![Edit Landing Page - Layout Builder](<../../../.gitbook/assets/Edit Landing page - Layout Builder.png>)
+![Edit Landing Page - Layout Builder](<../../../drupal-platform-docs/.gitbook/assets/Edit Landing page - Layout Builder.png>)
 
 3- Click on **Tasks \_/ Layout.**\_
 
-![Edit Landing Page - Tasks - Layout](<../../../.gitbook/assets/Edit layout for Landing Page - Tasks - Layout.png>)
+![Edit Landing Page - Tasks - Layout](<../../../drupal-platform-docs/.gitbook/assets/Edit layout for Landing Page - Tasks - Layout.png>)
 
 4- Click on **+ ADD SECTION.**
 
-![Edit Landing Page - Add Section](<../../../.gitbook/assets/Edit layout for Landing Page - Add Section.png>)
+![Edit Landing Page - Add Section](<../../../drupal-platform-docs/.gitbook/assets/Edit layout for Landing Page - Add Section.png>)
 
 5- Choose a layout for this section e.g.( Bootstrap 1 Col).
 
@@ -35,11 +35,11 @@ We could also add styling to each section by assigning the section to different 
 
 8- When you finish all the needed updates click on **Add Section** button.
 
-![Edit Landing Page - Configure Bootstrap 1 Col section](<../../../.gitbook/assets/Edit layout for Landing Page - Configure Bootstrap 1 Col section.png>)
+![Edit Landing Page - Configure Bootstrap 1 Col section](<../../../drupal-platform-docs/.gitbook/assets/Edit layout for Landing Page - Configure Bootstrap 1 Col section.png>)
 
 9- Click on **Save Layout** to save the added section.
 
-![Edit Landing Page - Save Layout](<../../../.gitbook/assets/Edit layout for Landing Page _ Save Layout .png>)
+![Edit Landing Page - Save Layout](<../../../drupal-platform-docs/.gitbook/assets/Edit layout for Landing Page _ Save Layout .png>)
 
 ## How to Edit/Delete Section
 
@@ -49,7 +49,7 @@ In order to edit a section to a specific page on the site, follow these steps:
 
 2- Update the **Configure Bootstrap Column** section.
 
-![Edit Landing Page - Edit Section](<../../../.gitbook/assets/Edit layout for Landing Page _ Edit Section.png>)
+![Edit Landing Page - Edit Section](<../../../drupal-platform-docs/.gitbook/assets/Edit layout for Landing Page _ Edit Section.png>)
 
 In order to delete a section to a specific page on the site, follow these steps:
 
@@ -57,4 +57,4 @@ In order to delete a section to a specific page on the site, follow these steps:
 
 2\. Confirm to delete the section by clicking **Remove** button.
 
-![Edit Landing Page - Remove Section](<../../../.gitbook/assets/image (52).png>)
+![Edit Landing Page - Remove Section](<../../../drupal-platform-docs/.gitbook/assets/image (52).png>)

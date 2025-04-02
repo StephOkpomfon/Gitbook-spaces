@@ -2,7 +2,7 @@
 
 The accordion block allows the admin to add collapsible sections that are used for FAQ questions and answers on the site.
 
-![Accordion Block](<../../../../.gitbook/assets/chrome_tZxbABqv9O (1) (1).png>)
+![Accordion Block](<../../../../drupal-platform-docs/.gitbook/assets/chrome_tZxbABqv9O (1) (1).png>)
 
 ### How to Add a Accordion Block <a href="#how-to-add-accordion-block" id="how-to-add-accordion-block"></a>
 

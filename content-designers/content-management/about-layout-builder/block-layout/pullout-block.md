@@ -7,7 +7,7 @@
 * **Link.**
 * **Button style**: select a style for the button from the default button styles list.
 
-![Pollout Block](../../../../.gitbook/assets/EsmjwbLWgz.png)
+![Pollout Block](../../../../drupal-platform-docs/.gitbook/assets/EsmjwbLWgz.png)
 
 ### ​How to Add a Pullout Block
 

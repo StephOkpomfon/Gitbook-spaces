@@ -13,10 +13,10 @@ In order to list all the terms inside the taxonomy follow these steps:
 3. Click **Taxonomy.**
 4. A separate page will load with all the list of vocabularies.
 
-![All the taxonomies](<../../../.gitbook/assets/image (50).png>)
+![All the taxonomies](<../../../drupal-platform-docs/.gitbook/assets/image (50).png>)
 
 5\. Click on **List terms** for the taxonomy that you want to view it, For example **Blog Categories**
 
-![List Terms of Blog Categories Taxonomy](<../../../.gitbook/assets/image (47) (1).png>)
+![List Terms of Blog Categories Taxonomy](<../../../drupal-platform-docs/.gitbook/assets/image (47) (1).png>)
 
 6\. A separate page will load with all the list terms of the **Blog Categories** taxonomy.

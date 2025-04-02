@@ -16,7 +16,7 @@ Follow these steps to create a new **Emergency** in the UNHCR website:
 4. Fill in all the mandatory fields under the "**Media header**" tab.
 5.  Click "**Save"**_**.**_\\
 
-    <figure><img src="../../../../.gitbook/assets/image (88).png" alt=""><figcaption><p>Create Emergency Page</p></figcaption></figure>
+    <figure><img src="../../../../drupal-platform-docs/.gitbook/assets/image (88).png" alt=""><figcaption><p>Create Emergency Page</p></figcaption></figure>
 
 ## Part 2: Create **Emergency f**ields:
 

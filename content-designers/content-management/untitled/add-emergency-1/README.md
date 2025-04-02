@@ -13,7 +13,7 @@ Follow these steps to create a new **Glossary term** in the UNHCR website:
 3. Fill in the mandatory fields.
 4.  Click "**Save"**_**.**_\\
 
-    <figure><img src="../../../../.gitbook/assets/image (96).png" alt=""><figcaption><p>Create Glossary Term Page</p></figcaption></figure>
+    <figure><img src="../../../../drupal-platform-docs/.gitbook/assets/image (96).png" alt=""><figcaption><p>Create Glossary Term Page</p></figcaption></figure>
 
 ## **Part 2: Create Glossary Term fields:**
 

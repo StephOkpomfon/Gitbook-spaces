@@ -6,13 +6,13 @@ Any content type has a general setting in the side menu, this setting will be ch
 
 The default information is set to the node creation date, use this setting to override the creation date with a new one while this date is used in node pages, teasers and search pages.
 
-![](../../.gitbook/assets/authoring-info.png)
+![](../../drupal-platform-docs/.gitbook/assets/authoring-info.png)
 
 ### Meta tags
 
 Use "Meta tags" to override the default meta tags for the current node.
 
-![](../../.gitbook/assets/metatags.png)
+![](../../drupal-platform-docs/.gitbook/assets/metatags.png)
 
 ### Menu Settings
 
@@ -23,13 +23,13 @@ Use "Menu Settings" to provide a menu link for the current node on any selected 
 3. Fill the fields for menu link: “**Menu link title**”, “**Description**”, “**Parent link**” and “**Weight**”.
 4. Click **Save**.
 
-![](../../.gitbook/assets/menu-settings.png)
+![](../../drupal-platform-docs/.gitbook/assets/menu-settings.png)
 
 ### Simple XML Sitemap
 
 Use "Simple XML Sitemap" to override the default XML sitemap settings for the current node.
 
-![](<../../.gitbook/assets/xmlsitemap (1) (1).png>)
+![](<../../drupal-platform-docs/.gitbook/assets/xmlsitemap (1) (1).png>)
 
 ### Search API Exclude
 
@@ -39,13 +39,13 @@ Use "Search API Exclude" to prevent the current node from indexing on the search
 2. Check the “**Prevent this node from being indexed**” checkbox from the node settings.
 3. Click **Save**.
 
-![](../../.gitbook/assets/search-exclude.png)
+![](../../drupal-platform-docs/.gitbook/assets/search-exclude.png)
 
 ### URL Redirects
 
 The URL redirects provide a list of all redirects on the current node and allow you to edit them. New redirects are created here using the "**Add URL redirect**" button which presents a form to simplify the creation of redirects.
 
-![](../../.gitbook/assets/url-redirects.png)
+![](../../drupal-platform-docs/.gitbook/assets/url-redirects.png)
 
 ### URL Alias
 
@@ -58,7 +58,7 @@ The following are steps on how to override the URL alias:
 3. Edit the URL alias field.
 4. Click **Save**.
 
-![](../../.gitbook/assets/url-alias.png)
+![](../../drupal-platform-docs/.gitbook/assets/url-alias.png)
 
 ### Entityqueues Settings
 
@@ -68,4 +68,4 @@ Use this setting to push the current node to a specific Entityqueue.
 2. Check the required Entityqueue from the listed checkboxes.
 3. Click **Save**.
 
-![](../../.gitbook/assets/entityqueue-settings.png)
+![](../../drupal-platform-docs/.gitbook/assets/entityqueue-settings.png)

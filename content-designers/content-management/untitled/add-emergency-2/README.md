@@ -13,7 +13,7 @@ Follow these steps to create a new **Job vacancy** in the UNHCR website:
 3. Fill in the mandatory fields under the "**Basic info**" tab.
 4. Click "**Save"**_**.**_
 
-<figure><img src="../../../../.gitbook/assets/image (101).png" alt=""><figcaption><p>Create Job Vacancy Page.</p></figcaption></figure>
+<figure><img src="../../../../drupal-platform-docs/.gitbook/assets/image (101).png" alt=""><figcaption><p>Create Job Vacancy Page.</p></figcaption></figure>
 
 ## **Part 2: Create Job vacancy fields:**
 

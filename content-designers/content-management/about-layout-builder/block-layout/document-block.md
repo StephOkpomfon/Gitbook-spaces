@@ -2,7 +2,7 @@
 
 The document block allows the admin to upload documents and show them in a separate block on the site.
 
-![Document Block](<../../../../.gitbook/assets/chrome_cEV49PhH7V (1).png>)
+![Document Block](<../../../../drupal-platform-docs/.gitbook/assets/chrome_cEV49PhH7V (1).png>)
 
 ### How to Add a Document Block <a href="#how-to-add-document-block" id="how-to-add-document-block"></a>
 

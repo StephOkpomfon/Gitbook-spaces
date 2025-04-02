@@ -9,4 +9,4 @@ To manage the taxonomy follow these steps:
 3. Click **Taxonomy.**
 4. A separate page will load with all the list of vocabularies.
 
-![Taxonomies](<../../../.gitbook/assets/Taxonomy _ varbase9003d1 (2).png>)
+![Taxonomies](<../../../drupal-platform-docs/.gitbook/assets/Taxonomy _ varbase9003d1 (2).png>)

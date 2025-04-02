@@ -5,7 +5,7 @@
 * **Media position:** select the position of media (Left / Right).
 * **View mode:** the view mode in which to render the block (Default / Edge to edge).
 
-![Text and Media Block](<../../../../.gitbook/assets/chrome_rTEdrNyizs (2).png>)
+![Text and Media Block](<../../../../drupal-platform-docs/.gitbook/assets/chrome_rTEdrNyizs (2).png>)
 
 ### How to Add a Text and Media Block <a href="#how-to-add-a-text-and-media-block" id="how-to-add-a-text-and-media-block"></a>
 

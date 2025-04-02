@@ -10,7 +10,7 @@ This feature is essential to assist country editors in receiving daily updates a
 
 This feature is essential to assist country editors in receiving daily updates about new content published on the global site or other countries' sites, which they intend to synchronize with their respective sites.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-10-13 at 12.56.14 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../drupal-platform-docs/.gitbook/assets/Screenshot 2023-10-13 at 12.56.14 PM.png" alt=""><figcaption></figcaption></figure>
 
 Within the user profile, users will have the capability to establish multiple subscriptions. These subscriptions will be visible and accessible through the "[Content subscription](https://www.unhcr.org/admin/content/content-subscription)" page located within the content menu.
 
@@ -18,7 +18,7 @@ Within the user profile, users will have the capability to establish multiple su
 
 An icon has been positioned in the upper-right corner of the admin menu, indicating the number of notifications associated with the subscriptions created by the admin user. Clicking on this icon will promptly redirect them to the "Content Subscriptions" page.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-10-13 at 1.02.42 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../drupal-platform-docs/.gitbook/assets/Screenshot 2023-10-13 at 1.02.42 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Acceptance Criteria
 

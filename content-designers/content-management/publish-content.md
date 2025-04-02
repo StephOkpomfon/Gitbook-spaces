@@ -7,6 +7,6 @@ Varbase gives you the ability to publish your content in a simple way, you can f
 1. Moderation sidebar: \*\*\*\* The status of the node will be shown just update to publish.
 2. Under each node, there is a button to change the content status, by default all new content will be as a draft you have to change it to publish later.
 
-![Moderated content side bar](<../../.gitbook/assets/Moderated content _ varbase9003d1.png>)
+![Moderated content side bar](<../../drupal-platform-docs/.gitbook/assets/Moderated content _ varbase9003d1.png>)
 
-![Content statuses](../../.gitbook/assets/chrome_uwwVBwrBko.png)
+![Content statuses](../../drupal-platform-docs/.gitbook/assets/chrome_uwwVBwrBko.png)

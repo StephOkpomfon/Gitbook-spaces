@@ -16,7 +16,7 @@ Follow these steps to create a new **Landing page** in the UNHCR website:
 4. Fill in all the mandatory fields under the "**Media header**" tab.
 5. Click "**Save"**_**.**_\\
 
-<figure><img src="../../../../.gitbook/assets/image (57).png" alt=""><figcaption><p>IMG-01: Create Landing Page.</p></figcaption></figure>
+<figure><img src="../../../../drupal-platform-docs/.gitbook/assets/image (57).png" alt=""><figcaption><p>IMG-01: Create Landing Page.</p></figcaption></figure>
 
 ## Part 2: Create Landing page fields
 

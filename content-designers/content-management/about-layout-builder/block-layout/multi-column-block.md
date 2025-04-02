@@ -14,7 +14,7 @@ The Multi-column block allows the admin to add multiple rows and columns.
 * **Value range**: minimum and maximum value for vertical axis values.
 * **Decimal count:** enforce a certain number of decimal-place digits in displayed values.
 
-![Multi-column Block](<../../../../.gitbook/assets/chrome_NU76SU04kU (1).png>)
+![Multi-column Block](<../../../../drupal-platform-docs/.gitbook/assets/chrome_NU76SU04kU (1).png>)
 
 ### How to Add a Multi-column Block <a href="#how-to-add-multi-column-block" id="how-to-add-multi-column-block"></a>
 

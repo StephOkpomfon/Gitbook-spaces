@@ -4,7 +4,7 @@
 
 This section will explain how to add users Varbase, please navigate to **Administration \ People \ \_Add user.**\_
 
-![Adding users in Varbase](<../../.gitbook/assets/image (13).png>)
+![Adding users in Varbase](<../../drupal-platform-docs/.gitbook/assets/image (13).png>)
 
 Fill in all the required details and necessary fields:
 

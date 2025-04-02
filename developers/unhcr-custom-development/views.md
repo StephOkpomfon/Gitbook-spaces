@@ -6,7 +6,7 @@ Displays are provided in either block or page form, and a single view may have m
 
 A view may be restricted to members of specific user roles, and maybe added, edited, or deleted at the views administration page.
 
-![](../../.gitbook/assets/unnamed.jpg)
+![](../../drupal-platform-docs/.gitbook/assets/unnamed.jpg)
 
 Since 8.x Drupal provides views bundled with core, this module is used to manage most of the content listing around the site, most views utilize Drupal’s core cache tags for better performance and scalability.
 

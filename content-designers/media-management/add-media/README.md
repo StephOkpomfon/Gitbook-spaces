@@ -14,4 +14,4 @@ You can add **Media** from several places in **UNHCR** website:
 2. Select **Add media**_._
 3.  Select type of the Media that you need to add.
 
-    <figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption><p>Add media Page</p></figcaption></figure>
+    <figure><img src="../../../drupal-platform-docs/.gitbook/assets/image (106).png" alt=""><figcaption><p>Add media Page</p></figcaption></figure>

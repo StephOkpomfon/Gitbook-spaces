@@ -2,7 +2,7 @@
 
 The gallery block allows the admin to add a block containing a bunch of images in order to show them as a gallery component.
 
-![Gallery Block](<../../../../.gitbook/assets/chrome_oekRrKJm6a (1).jpg>)
+![Gallery Block](<../../../../drupal-platform-docs/.gitbook/assets/chrome_oekRrKJm6a (1).jpg>)
 
 ### How to Add a Gallery Block <a href="#how-to-add-a-media-block" id="how-to-add-a-media-block"></a>
 

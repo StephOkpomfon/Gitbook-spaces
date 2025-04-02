@@ -11,16 +11,16 @@ Custom Blocks are pre-built design blocks that help the user to design content f
 1. Open the desired page e.g.(Homepage).
 2. Click on **Tasks\\**_**Layout**_.
 
-![Homepage-Layout](<../../../../.gitbook/assets/Homepage-Layout (1) (1).png>)
+![Homepage-Layout](<../../../../drupal-platform-docs/.gitbook/assets/Homepage-Layout (1) (1).png>)
 
 3\. Click on **Add Section\\**_**Choose a layout for this section**_ e.g.(Bootstrap 1 Col).
 
-![Edit layout for Homepage- Choose a Layout for this Section](<../../../../.gitbook/assets/Edit layout for Homepage _ Add Section (1).png>)
+![Edit layout for Homepage- Choose a Layout for this Section](<../../../../drupal-platform-docs/.gitbook/assets/Edit layout for Homepage _ Add Section (1).png>)
 
 4\. Click on **Add Block\\**_**Create Custom Block**_.
 
-![Edit layout for Homepage - Add Block - Create Custom Block](<../../../../.gitbook/assets/Edit layout for Homepage _ Add Block - Create Custom Block (1) (1).png>)
+![Edit layout for Homepage - Add Block - Create Custom Block](<../../../../drupal-platform-docs/.gitbook/assets/Edit layout for Homepage _ Add Block - Create Custom Block (1) (1).png>)
 
 5\. Select the desired block.
 
-![](<../../../../.gitbook/assets/image (9).png>)
+![](<../../../../drupal-platform-docs/.gitbook/assets/image (9).png>)

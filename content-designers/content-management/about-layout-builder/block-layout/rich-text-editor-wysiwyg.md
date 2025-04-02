@@ -2,16 +2,16 @@
 
 The rich text editor or the WYSIWYG (What You See Is What You Get) allows you to format the text inside the site as needed. Admins can also upload images, add links, and much more.
 
-![Rich-Text Block](<../../../../.gitbook/assets/rich text (1).png>)
+![Rich-Text Block](<../../../../drupal-platform-docs/.gitbook/assets/rich text (1).png>)
 
 ### Rich-Text Editor Components
 
-![Rich-Text Editor](<../../../../.gitbook/assets/Rich-Text Editor.png>)
+![Rich-Text Editor](<../../../../drupal-platform-docs/.gitbook/assets/Rich-Text Editor.png>)
 
 | Icon                                                                                                                                                                                                                                                               | Function (from left to right)                                                                                                                                                                                                    |   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
 | <p><strong>Text Functions</strong></p><p><img src="https://lh5.googleusercontent.com/vzqiwD3BKS9Bm5PQ15CuoPmbMibHLFQDyE97MCmWQaZePRsgt66X1jWFlUaHhXTnUvSKinO_0WfzD2hL-Rpo2onTNxFkMGh4kSPDdx1LSkT3TCMnFKrAUx20zRbVjTrM2fMCWW4r" alt="" data-size="original"></p>    | <ul><li>Cut</li><li>Copy</li><li>Paste</li><li>Paste from word</li><li>Undo</li><li>Redo</li></ul>                                                                                                                               |   |
-| **Media Functions**![](<../../../../.gitbook/assets/image (49).png>)                                                                                                                                                                                               | <ul><li>Add or select media</li><li>Media library: to select existing image</li><li>Insert link</li><li>Blockquote</li><li>Insert horizontal line</li><li>Insert table</li></ul>                                                 |   |
+| **Media Functions**![](<../../../../drupal-platform-docs/.gitbook/assets/image (49).png>)                                                                                                                                                                          | <ul><li>Add or select media</li><li>Media library: to select existing image</li><li>Insert link</li><li>Blockquote</li><li>Insert horizontal line</li><li>Insert table</li></ul>                                                 |   |
 | <p><strong>Linking Functions</strong></p><p><img src="https://lh3.googleusercontent.com/ngHdN4QWDO4CyycZ32D5lmd7wYbeis_oiMq8vs9eAyPXF6K6jottuPW91UTdqxmLUuySDozvU-JZLeykGA_fqXuACxUF5cJgnl8MeNGMc07C-DstsLkcDr2vNmmohZag-LuU_XLv" alt="" data-size="original"></p> | <ul><li>Link it: to link to internal text</li><li>Link: to link external content</li><li>Remove link: for unlinking text</li><li>Anchor link</li></ul>                                                                           |   |
 | <p><strong>Special Functions</strong></p><p><img src="https://lh5.googleusercontent.com/yYgttwqdBuwgaTZ6el23llTSfzpTPnM1d0XADv7TwHrwFRKyuukdhPgm_xjC4TL6ZiXZXKSTodTVoHwuD6Es9YaGENjogt2cYq_-zi-lPxdsUN0yDEYAYSRMkK-jA4ymgKVKNQn2" alt="" data-size="original"></p> | <ul><li>Show blocks: to break up the text into blocks for better viewing &#x26; editing</li><li>Full screen mode</li><li>Source: to view source code</li></ul>                                                                   |   |
 | **Predefined Styles & Headings** ![](https://lh3.googleusercontent.com/cRj9kR727Rt7rsTXrIH6uhfHQwvPPqwd6AtMynmic2KptxmJszdgQKtwtYZQ-s7BJbtVjeQYIuOZZ6WpvorhmpuMfafpd5mYlunIp6lxheZ4if67GG1J8RbOAo2JK8ESw2l90K47)                                                   | <ul><li>List of predefined styles (shown below)</li><li>List of headings (shown below)</li></ul>                                                                                                                                 |   |
@@ -23,16 +23,16 @@ The rich text editor or the WYSIWYG (What You See Is What You Get) allows you to
 
 1\. Click on **Add Block\\**_**Create Custom Block**_.
 
-![Edit layout for Homepage - Add Block - Create Custom Block](<../../../../.gitbook/assets/Edit layout for Homepage _ Add Block - Create Custom Block (1) (1).png>)
+![Edit layout for Homepage - Add Block - Create Custom Block](<../../../../drupal-platform-docs/.gitbook/assets/Edit layout for Homepage _ Add Block - Create Custom Block (1) (1).png>)
 
 2\. Select **Rich Text** block.
 
-![Add a New Custom Block - Rich Text](<../../../../.gitbook/assets/image (47).png>)
+![Add a New Custom Block - Rich Text](<../../../../drupal-platform-docs/.gitbook/assets/image (47).png>)
 
 3\. Add the text and update the desired fields, then click on **Add Block.**
 
-![Rich Text Configure Block](<../../../../.gitbook/assets/image (56).png>)
+![Rich Text Configure Block](<../../../../drupal-platform-docs/.gitbook/assets/image (56).png>)
 
 4\. Click on **Save Layout** at the top of the page when you are done with your changes.
 
-![Save Layout Builder](<../../../../.gitbook/assets/Edit layout for Homepage _ Save Layout.png>)
+![Save Layout Builder](<../../../../drupal-platform-docs/.gitbook/assets/Edit layout for Homepage _ Save Layout.png>)

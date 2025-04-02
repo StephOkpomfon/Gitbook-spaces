@@ -8,4 +8,4 @@ This provides **an added advantage to the client-side** where it can accept the 
 
 Moreover, the interface that the module provides for the entities to be pulled is user-friendly and easily understandable. It clearly depicts newly created and already pulled content along with its synchronization status. In case the content after being shared and pulled gets edited either at the server or client-side, the status gets immediately updated.
 
-![Pull Entities](<../../../.gitbook/assets/Pull entities _  (1).jpg>)
+![Pull Entities](<../../../drupal-platform-docs/.gitbook/assets/Pull entities _  (1).jpg>)

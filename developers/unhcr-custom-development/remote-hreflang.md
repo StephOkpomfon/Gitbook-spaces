@@ -34,4 +34,4 @@ More information on the generation logic can be found here:
 
 {% embed url="https://docs.google.com/spreadsheets/d/1GCNWQbdd1B1DKpDFj9vo0cZIuUPMOhKcD3qVq8V967E/edit#gid=1711574043" %}
 
-<figure><img src="../../.gitbook/assets/UNHCR Hreflang.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../drupal-platform-docs/.gitbook/assets/UNHCR Hreflang.png" alt=""><figcaption></figcaption></figure>

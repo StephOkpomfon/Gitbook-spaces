@@ -14,4 +14,4 @@ Users can add content to the site with predefined content types throughout the s
 **Before you begin**: Make sure you are logged in as a user who has the right to create content – ask your system administrator if you are not sure; otherwise, some of the fields you need to select will not be visible.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Add content page</p></figcaption></figure>
+<figure><img src="../../../drupal-platform-docs/.gitbook/assets/image (8).png" alt=""><figcaption><p>Add content page</p></figcaption></figure>

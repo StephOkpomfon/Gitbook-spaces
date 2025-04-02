@@ -50,7 +50,7 @@ Out of the box, Varbase Workflow offers two workflows for content moderation:
 
 To view or manage these workflows, navigate to: **Administration** \ **Configuration** \ **Workflow** \ _**Workflows**_
 
-![Workflows Management](<../../.gitbook/assets/Workflows (1).png>)
+![Workflows Management](<../../drupal-platform-docs/.gitbook/assets/Workflows (1).png>)
 
 ### Assigning a Workflow to Content Types
 
@@ -68,7 +68,7 @@ By default, Varbase let's you choose the Content Moderation Workflow when creati
 
 You'll see that option under the "Publishing options" when creating a new Content Type.
 
-![Choosing a Workflow when creating new content type](<../../.gitbook/assets/Add Content Type Workflows.png>)
+![Choosing a Workflow when creating new content type](<../../drupal-platform-docs/.gitbook/assets/Add Content Type Workflows.png>)
 
 #### Assign a Workflow to an Existing Content Type
 
@@ -81,9 +81,9 @@ You can also assign an existing Content Type to a Workflow if it wasn't assigned
 5. Choose your desired Content Type from the list and click on "**Save**".\
    Note that Content Types assigned to another Workflow will not appear on this list.
 
-![](<../../.gitbook/assets/Edit-Simple-workflow-sandboxes-varbase8c80806t2 (1).png>)
+![](<../../drupal-platform-docs/.gitbook/assets/Edit-Simple-workflow-sandboxes-varbase8c80806t2 (1).png>)
 
-![List of content types under Workflow](../../.gitbook/assets/yyy.png)
+![List of content types under Workflow](../../drupal-platform-docs/.gitbook/assets/yyy.png)
 
 ### Adding or Editing Workflows
 
@@ -98,7 +98,7 @@ Refer to Drupal.org documentation for more about the terminology and usage of th
 
 Moderation Sidebar provides an off-canvas menu to moderate the current content. To use the sidebar, visit any content with an enabled Workflow. You'll see the "**Tasks**" button in the Administration Toolbar. This will open an off-canvas menu that contains contextual actions related to the assigned Workflow.
 
-![Moderation Sidebar](<../../.gitbook/assets/Moderation SIdebar.png>)
+![Moderation Sidebar](<../../drupal-platform-docs/.gitbook/assets/Moderation SIdebar.png>)
 
 {% hint style="info" %}
 The default Varbase configuration now hides the "Local Tasks" available in content pages in the front-end theme, assuming that the Moderation Sidebar is the alternative method to edit, view, translate, or manage content.
@@ -112,4 +112,4 @@ Varbase Workflow adds a simple administration view to show the available drafts 
 
 To see the available drafts, navigate to: **Administration** \ **Content** \ _**Moderated content**_\*\* \*\*
 
-![Moderated Content Admin View](<../../.gitbook/assets/Moderated-content-test-qa-varbase-8-8-x-development-13-07-2020 (1).png>)
+![Moderated Content Admin View](<../../drupal-platform-docs/.gitbook/assets/Moderated-content-test-qa-varbase-8-8-x-development-13-07-2020 (1).png>)

@@ -2,7 +2,7 @@
 
 The country switcher is a component developed for the <mark style="color:blue;">unhcr.org</mark> project to allow the user to navigate between **Country sites** and **Country profiles** easily.
 
-![Country Switcher](../../.gitbook/assets/screenshot-mvp.unhcr.info-2022.02.03-10_37_19.png)
+![Country Switcher](../../drupal-platform-docs/.gitbook/assets/screenshot-mvp.unhcr.info-2022.02.03-10_37_19.png)
 
 ### Countries & Regional Sites
 

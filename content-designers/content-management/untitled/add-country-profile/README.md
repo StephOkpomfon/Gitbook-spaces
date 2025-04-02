@@ -17,7 +17,7 @@ Adhere to these guidelines in order to create a new **Country profile** on UNHCR
 4. Fill in all the mandatory fields under the "**Media header**" tab.
 5. Click "**Save"**_**.**_
 
-<figure><img src="../../../../.gitbook/assets/image (69).png" alt=""><figcaption><p>img-001: Create Country Profile.</p></figcaption></figure>
+<figure><img src="../../../../drupal-platform-docs/.gitbook/assets/image (69).png" alt=""><figcaption><p>img-001: Create Country Profile.</p></figcaption></figure>
 
 ## **Part 2: "Create Country" form fields:**
 

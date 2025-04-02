@@ -6,18 +6,18 @@ The following are steps on how to override the URL alias:
 
 1- Go to the **Content** you would like to edit and click on **Edit.**
 
-![Edit the content](<../../.gitbook/assets/Edit the content .png>)
+![Edit the content](<../../drupal-platform-docs/.gitbook/assets/Edit the content .png>)
 
 2- Click on **URL Alias** in the side menu.
 
-![URL alias](<../../.gitbook/assets/URL alias.png>)
+![URL alias](<../../drupal-platform-docs/.gitbook/assets/URL alias.png>)
 
 3- Uncheck the “**Generate automatic URL alias**” checkbox from the node settings.
 
-![URL alias - Generate automatic URL alias checkbox](<../../.gitbook/assets/URL alias - Generate automatic URL alias Checkbox.png>)
+![URL alias - Generate automatic URL alias checkbox](<../../drupal-platform-docs/.gitbook/assets/URL alias - Generate automatic URL alias Checkbox.png>)
 
 4- Edit the URL alias field.
 
-![Edit the URL](<../../.gitbook/assets/Edit the URL alias.png>)
+![Edit the URL](<../../drupal-platform-docs/.gitbook/assets/Edit the URL alias.png>)
 
 5- Click **Save**.
